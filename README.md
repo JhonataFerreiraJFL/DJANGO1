@@ -4,15 +4,6 @@
 
 This repository is a personal project to study and enhance my skills in Django, a high-level Python web framework. The goal is to build a functional web application while learning best practices in Django development, including models, views, templates, and RESTful APIs.
 
-## Features
-
-- User authentication and authorization.
-- CRUD operations for various models.
-- Integration with a PostgreSQL database.
-- RESTful API endpoints using Django REST Framework.
-- Templating with Django's template engine.
-- Static files management (CSS, JavaScript).
-- Unit and integration testing.
 
 ## Structure
 
