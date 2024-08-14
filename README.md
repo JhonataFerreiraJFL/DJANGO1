@@ -30,4 +30,4 @@ This repository is a personal project to study and enhance my skills in Django, 
    cd DJANGO1
 2. Run project
    ```bash
-   
+   python manage.py runserver
