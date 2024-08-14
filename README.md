@@ -28,3 +28,6 @@ This repository is a personal project to study and enhance my skills in Django, 
    ```bash
    git clone https://github.com/JhonataFerreiraJFL/DJANGO1.git
    cd DJANGO1
+2. Run project
+   ```bash
+   
